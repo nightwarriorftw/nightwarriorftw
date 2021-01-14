@@ -7,7 +7,7 @@
 </p>
 
 ## 🤵 About Me:
- 🏦 Hi, I'm [Aman Verma](https://nightwarriorftw.netlify.app), a passionate Full Stack Developer 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. I learn by hacking on real time projects. 
+ 🏦 Hi, I'm [Aman Verma](https://nightwarriorftw.netlify.app), a passionate Software Developer 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. I learn by hacking on real time projects. 
  
  🐱 I am also an Open Source Contributor and have contibuted to some good Open Source projects like **Firefox Devtools** and **SecureDrop**
  
