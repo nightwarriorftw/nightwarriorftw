@@ -6,8 +6,6 @@
 <a href="https://www.instagram.com/nightwarriorftw/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/725/725278.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<br>
-
 ## 🤵 About Me:
  🏦 Hi, I'm [Aman Verma](https://nightwarriorftw.netlify.app), a passionate Full Stack Developer 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. I learn by hacking on real time projects. 
  
@@ -43,7 +41,6 @@
       <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="75"/> 
 </p>
-
 
 ---
 ### 📢 Find me elsewhere
