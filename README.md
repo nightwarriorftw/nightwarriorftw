@@ -11,7 +11,7 @@
 
 ## 👨🏻‍💻 About Me:
 
- 🏦 Hi, I'm [Aman Verma](https://nightwarriorftw.netlify.app), a passionate Software Developer 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. I learn by hacking on real time projects. 
+ 🏦 Hi, I'm [Aman Verma](https://nightwarriorftw.netlify.app), a passionate Software Engineer 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. I learn by hacking on real time projects. 
  
  🐱 I am also an Open Source Contributor and have contibuted to some good Open Source projects like **Firefox Devtools** and **SecureDrop**
  
@@ -21,9 +21,9 @@
  
  💬 Talk to me about Browsers, OpenWeb, Web Technologies, DevOps, Scalibility and System Design
  
- 📝 I write technical blogposts on [nightwarriorftw.github.io](nightwarriorftw.github.io)
+ 📝 I write technical blogposts on [nightwarriorftw.github.io](https://nightwarriorftw.github.io/)
  
- 👯 We can connect to play some games of Chess ♟ and talk about weird things in world of darkness 
+ 👯 We can connect to play some games of Chess ♟ and talk about Softwares and weird things :)
  
  ⚡ Fun fact: If Wonder Woman and Spiderman are in the same movie, it would be called as Amazon Web Services 😂
 
@@ -35,8 +35,8 @@
       <img src="https://raw.githubusercontent.com/Benio101/cpp-logo/master/cpp_logo.svg" alt="cpp" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="85" height="70"/>
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="85" height="70"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="nodejs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongo" width="85" height="85"/>
+      <!-- <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="nodejs" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongo" width="85" height="85"/> -->
       <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="85" height="70"/> 
       <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="85" height="70"/>
       <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" alt="css" width="55" height="55"/> 
@@ -46,6 +46,6 @@
 
 ### 📢 Find me elsewhere
 
-<a href="https://leetcode.com/nightwarriorftw/">
+<a href="https://leetcode.com/nightwarriorftw/" target="_blank">
   <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
 </a>&nbsp;&nbsp;&nbsp;
