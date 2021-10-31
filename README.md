@@ -1,15 +1,15 @@
 <h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Aman Verma</h1>
 
 <h3 align="center">
-  <span>🏦 A passionate Software Engineer 👨🏻‍💻 from India.</span>
+  <span>🏦 A passionate Software Engineer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">  from India</span>
 </p>
 
 <p align="center">
   <a href="https://twitter.com/nightwarriorftw" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/developer-aman-verma/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nightwarriorftw/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
+## 👨🏻‍💻 About Me:
 
  🏦 Hi, I'm [Aman Verma](https://nightwarriorftw.netlify.app), a passionate Software Developer 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. I learn by hacking on real time projects. 
  
@@ -17,7 +17,7 @@
  
  💻 I use python, javascript and cpp daily
  
- 🌱 I’m currently learning Scaling and Infrastructure
+ 🌱 I’m currently learning System Design, Scaling and Infrastructure
  
  💬 Talk to me about Browsers, OpenWeb, Web Technologies, DevOps, Scalibility and System Design
  
