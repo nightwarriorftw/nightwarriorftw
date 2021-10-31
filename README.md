@@ -1,5 +1,5 @@
 <p align="center">
-<span style="font-size: 40px">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am <span>Aman Verma</h1>
+<span style="font-size: 100px;">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am <span>Aman Verma</h1>
 </p>
 
 ---
