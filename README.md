@@ -11,7 +11,7 @@
 
 ## 👨🏻‍💻 About Me:
 
- 🏦 Hi, I'm [Aman Verma](https://nightwarriorftw.netlify.app), a passionate **Software Engineer** 👨🏻‍💻 from India. I'm a **creative problem solving enthusiast** and **a product guy**, with a constantly growing love for kick ass products. I learn by hacking on real time projects. 
+ 🏦 Hi, I'm [Aman Verma](https://nightwarriorftw.netlify.app), a passionate **Software Engineer** 👨🏻‍💻 from India. I'm a **creative real world problem solving enthusiast** and **a product guy**, with a constantly growing love for kick ass products. I learn by hacking on real time projects. 
  
  🐱 I am also an Open Source Contributor and have contibuted to some good Open Source projects like **Firefox Devtools** and **SecureDrop**
  
@@ -44,8 +44,8 @@
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="75"/> 
 </p>
 
-### 📢 Find me elsewhere
+<!-- ### 📢 Find me elsewhere
 
 <a href="https://leetcode.com/nightwarriorftw/" target="_blank">
   <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
-</a>&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp; -->
