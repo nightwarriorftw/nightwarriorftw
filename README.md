@@ -11,19 +11,19 @@
 
 ## 👨🏻‍💻 About Me:
 
- 🏦 Hi, I'm [Aman Verma](https://nightwarriorftw.netlify.app), a passionate **Software Engineer** 👨🏻‍💻 from India. I'm a **creative real world problem solving enthusiast** and **a product guy**, with a constantly growing love for kick ass products. I learn by hacking on real time projects. 
+ 🏦 Hi, I'm [Aman Verma](https://nightwarriorftw.netlify.app), a passionate **Software Engineer** 👨🏻‍💻 from India. I'm a **creative real world problem solving enthusiast** and **a product guy**, with a constantly growing love for kick ass products. I learn by hacking on real time projects
  
  🐱 I am also an Open Source Contributor and have contibuted to some good Open Source projects like **Firefox Devtools** and **SecureDrop**
  
- 💻 I use python, javascript and cpp daily
+ 💻 I use python, cpp and javascript daily
  
  🌱 I’m currently learning System Design, Scaling and Infrastructure
  
- 💬 Talk to me about Browsers, OpenWeb, Web Technologies, DevOps, Scalibility and System Design
+ 💬 Talk to me about Browsers, OpenWeb, Web Technologies, DevOps, System Design and basically anything :)
  
  📝 I write technical blogposts on [nightwarriorftw.github.io](https://nightwarriorftw.github.io/)
  
- 👯 We can connect to play some games of Chess ♟ and talk about Softwares and weird things :)
+ 👯 We can connect to play games and talk about Softwares and weird things :)
  
  ⚡ Fun fact: If Wonder Woman and Spiderman are in the same movie, it would be called as Amazon Web Services 😂
 
