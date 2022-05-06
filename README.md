@@ -17,7 +17,7 @@
  
  💻 I use python, cpp and javascript daily
  
- 🌱 I’m currently learning to make right tradeoffs and scaling systems
+ 🌱 I’m currently learning **To make right tradeoffs** and **Scaling systems**
  
  💬 Talk to me about Browsers, OpenWeb, Web Technologies, DevOps, System Design and basically anything :)
  
