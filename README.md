@@ -17,7 +17,7 @@
  
  💻 I use python, cpp and javascript daily
  
- 🌱 I’m currently learning System Design, Scaling and Infrastructure
+ 🌱 I’m currently learning to make right tradeoffs and scaling systems
  
  💬 Talk to me about Browsers, OpenWeb, Web Technologies, DevOps, System Design and basically anything :)
  
