@@ -1,7 +1,7 @@
-<h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="20px">, I am Aman Verma</h1>
+<h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="35px">, I am Aman Verma</h1>
 
 <h3 align="center">
-  <span>🏦 A passionate Software Engineer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px" height="20px">  from India</span>
+  <span>🏦 A passionate Software Engineer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px" height="35px">  from India</span>
 </p>
 
 <p align="center">
